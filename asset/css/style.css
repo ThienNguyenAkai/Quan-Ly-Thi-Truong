@@ -130,7 +130,7 @@ html {
     background-color:rgb(228, 169, 169);
     margin-top: 46px;
     padding-top: 50%;
-    background: url('/asset/img/slide3.jpg') top center / cover no-repeat;
+    background: url('/asset/img/member-image/slide3.jpg') top center / cover no-repeat;
 }
 #slider .text-content{
     position: absolute;
